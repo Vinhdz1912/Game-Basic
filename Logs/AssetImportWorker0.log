@@ -242,3 +242,27 @@ Received Import Request.
 Start importing ProjectSettings/TagManager.asset using Guid(00000000000000003000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6b9326e97e2461385864aa44f9e28ada') in 0.000785 seconds
 Number of updated asset objects reloaded before import = 0
 Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 347.944529 seconds.
+  path: Assets/VINH/GAME BASIC/hinh anh/Art/Animation
+  artifactKey: Guid(13cde2ed77a3f6140ac79f27d3c573fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VINH/GAME BASIC/hinh anh/Art/Animation using Guid(13cde2ed77a3f6140ac79f27d3c573fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '862ac3df60449da81850b0f67890285e') in 0.000627 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 8.419660 seconds.
+  path: Assets/VINH/GAME BASIC/hinh anh/Art/Animation/Hero
+  artifactKey: Guid(b47fb6a804f001f46b6b8fb08769ba15) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VINH/GAME BASIC/hinh anh/Art/Animation/Hero using Guid(b47fb6a804f001f46b6b8fb08769ba15) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9a9e095df29c460bf2a6b0628068b34e') in 0.000428 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 13.802417 seconds.
+  path: Assets/VINH/GAME BASIC/hinh anh/Art/Animation/Enemi
+  artifactKey: Guid(0f9ab14ae2925b84bab310ef587d1cf8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VINH/GAME BASIC/hinh anh/Art/Animation/Enemi using Guid(0f9ab14ae2925b84bab310ef587d1cf8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '158acdf2bb8de366a5d420eece87f340') in 0.000459 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
